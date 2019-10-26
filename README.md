@@ -1,3 +1,3 @@
 # Hello World!
 
-Information Technology | Georgian Developer
+Information Technology |
